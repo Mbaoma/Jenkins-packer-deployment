@@ -68,7 +68,7 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 ### Bake Jenkins into an AMI
 - Install Packer
-- 
+
 ```bash
 $ brew tap hashicorp/tap
 $ brew install hashicorp/tap/packer
